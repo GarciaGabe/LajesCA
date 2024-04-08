@@ -1,0 +1,14 @@
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\bin\Release\LajesCA.exe.config
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\bin\Release\LajesCA.exe.manifest
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\bin\Release\LajesCA.application
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\bin\Release\LajesCA.exe
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\bin\Release\LajesCA.pdb
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\obj\Release\LajesCA.csproj.AssemblyReference.cache
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\obj\Release\LajesCA.formPrincipal.resources
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\obj\Release\LajesCA.Properties.Resources.resources
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\obj\Release\LajesCA.csproj.GenerateResource.cache
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\obj\Release\LajesCA.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\obj\Release\LajesCA.exe.manifest
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\obj\Release\LajesCA.application
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\obj\Release\LajesCA.exe
+C:\Users\Gabriel\source\repos\LajesCA\LajesCA\obj\Release\LajesCA.pdb
